@@ -2,11 +2,11 @@
 <h3 align="center">I am a second-year computer science engineering student who is enthusiastic about tackling challenges and exploring innovative solutions in the ever-evolving field of technology</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/dd7f618ec1acfac89af69724e512095fc93cff184c6a61f1f56bc02be2fb98e1/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f61352f33352f36302f61353335363063383038383930306532363638383066373739646163636564372e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alabm1&label=Profile%20views&color=0e75b6&style=flat" alt="alabm1" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=alabm1&label=Profile%20views&color=0e75b6&style=flat](https://www.joberty.com/blog/content/images/2023/09/web-developers.png)" alt="alabm1" /> </p>
 
 - 🔭 I’m currently working on **Developing a web application called INFINITYFARM**
 
-- 🌱 I’m currently learning **SpringBoot && Symfony**
+- 🌱 I’m currently learning **SpringBoot && Angular && .NET**
 
 - 📫 How to reach me **alaeddine.benmahmoud@esprit.tn**
 
