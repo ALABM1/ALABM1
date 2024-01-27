@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alaeddine Ben Mahmoud</h1>
 <h3 align="center">I am a second-year computer science engineering student who is enthusiastic about tackling challenges and exploring innovative solutions in the ever-evolving field of technology</h3>
-<img align="right" alt="Coding" width="400" src="https://png.pngtree.com/png-vector/20220124/ourmid/pngtree-simple-flat-cartoon-video-game-computer-character-vector-elements-png-image_4263773.png">
+<img align="right" alt="Coding" width="400" src="https://png.pngtree.com/png-clipart/20230913/original/pngtree-programmer-clipart-developer-sitting-behind-his-computer-in-glasses-cartoon-vector-png-image_11075227.png">
 
-<p align="left"> <img src="https://png.pngtree.com/png-clipart/20230913/original/pngtree-programmer-clipart-developer-sitting-behind-his-computer-in-glasses-cartoon-vector-png-image_11075227.png" alt="alabm1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alabm1&label=Profile%20views&color=0e75b6&style=flat" alt="alabm1" alt="alabm1" /> </p>
 
 - 🔭 I’m currently working on **Developing a web application called CoConsult**
 
