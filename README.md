@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alaeddine Ben Mahmoud</h1>
 <h3 align="center">I am a second-year computer science engineering student who is enthusiastic about tackling challenges and exploring innovative solutions in the ever-evolving field of technology</h3>
-<img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/151519281/292722498-4722160a-8e61-403f-a905-728feae1f7e6.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY0MDIxODIsIm5iZiI6MTcwNjQwMTg4MiwicGF0aCI6Ii8xNTE1MTkyODEvMjkyNzIyNDk4LTQ3MjIxNjBhLThlNjEtNDAzZi1hOTA1LTcyOGZlYWUxZjdlNi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEyOFQwMDMxMjJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05MGEyN2E2YzFjM2U1ZDk0MWM5MjI3NjE0NTU0YzljOTVmMDk4Y2Q2YTVmNTVkYjM1YTAyZjI2ZWFlMTViYzg3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.WYzEMavzK2vmjxy3NqZlBdjRoQMuHnh65Lq8zA4f2fE">
+<img align="right" alt="Coding" width="400" src="https://png.pngtree.com/png-clipart/20230913/original/pngtree-programmer-clipart-developer-sitting-behind-his-computer-in-glasses-cartoon-vector-png-image_11075227.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alabm1&label=Profile%20views&color=0e75b6&style=flat" alt="alabm1" alt="alabm1" /> </p>
 
