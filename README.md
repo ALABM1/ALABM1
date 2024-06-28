@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/alaeddine-ben-mahmoud-197a93258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alaeddine-ben-mahmoud-197a93258/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/aladin.benmahmoud/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/aladin.benmahmoud/" height="30" width="40" /></a>
+
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/ala1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/ala1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/ala_bm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ala_bm/" height="30" width="40" /></a>
 </p>
