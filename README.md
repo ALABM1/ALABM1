@@ -26,8 +26,8 @@
   </a> 
   
    <!-- Express icon -->
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="express" width="40" height="40" style="background-color: white;"/> 
+ <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://devicons.railway.app/i/express.svg" alt="express" width="40" height="40"/> 
   </a> 
   
   <!-- React icon -->
