@@ -4,8 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alabm1&label=Profile%20views&color=0e75b6&style=flat" alt="alabm1" alt="alabm1" /> </p>
 
-- 🔭 I’ve completed **Developing a web application using the MERN stack**: [View Project]([https://your-project-link.com](https://ala-social-app.onrender.com/)){:target="_blank"}  
-
+- 🔭 I’ve completed **Developing a web application using the MERN stack**: <a href="https://ala-social-app.onrender.com/" target="_blank" rel="noopener noreferrer">View Project</a>  
 - 🌟 **Passionate about** Full-stack development using Spring Boot, Angular, MERN Stack, and Symfony
 - 🌐 **Check out my Portfolio:** [Portfolio Link](https://alaeddinebenmahmoud-alabm1s-projects.vercel.app/)  
 - 📫 How to reach me **alaeddine.benmahmoud@esprit.tn**
