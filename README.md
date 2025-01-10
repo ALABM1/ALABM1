@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alaeddine Ben Mahmoud</h1>
-<h3 align="center">I am a second-year computer science engineering student who is enthusiastic about tackling challenges and exploring innovative solutions in the ever-evolving field of technology</h3>
+<h3 align="center">I am Alaeddine Ben Mahmoud, a final-year Computer Science Engineering student specializing in Software Engineering with a strong focus on full-stack development. I’m eager to tackle challenges and explore innovative solutions in technology.</h3>
 <img align="right" alt="Coding" width="400" src="https://png.pngtree.com/png-clipart/20230913/original/pngtree-programmer-clipart-developer-sitting-behind-his-computer-in-glasses-cartoon-vector-png-image_11075227.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alabm1&label=Profile%20views&color=0e75b6&style=flat" alt="alabm1" alt="alabm1" /> </p>
