@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Alaeddine Ben Mahmoud</h1>
-<h3 align="center">I am Alaeddine Ben Mahmoud, a final-year Computer Science Engineering student specializing in Software Engineering with a strong focus on full-stack development.</h3>
+<h3 align="center">I am Alaeddine Ben Mahmoud, a final-year Computer Science Engineering student specializing in Software Engineering with a strong focus on Full-stack development.</h3>
 <img align="right" alt="Coding" width="400" src="https://png.pngtree.com/png-clipart/20230913/original/pngtree-programmer-clipart-developer-sitting-behind-his-computer-in-glasses-cartoon-vector-png-image_11075227.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alabm1&label=Profile%20views&color=0e75b6&style=flat" alt="alabm1" alt="alabm1" /> </p>
 
 - 🔭 I’m currently **Developing a web application using the MERN stack**
 
-- 🌟 **Experienced with** Full-stack development using Spring Boot, Angular, MERN Stack, and Symfony  
+- 🌟 **Passionate about** Full-stack development using Spring Boot, Angular, MERN Stack, and Symfony
+- - 🌐 **Check out my Portfolio:** [Portfolio Link](https://alaeddinebenmahmoud-alabm1s-projects.vercel.app/)  
 
 - 📫 How to reach me **alaeddine.benmahmoud@esprit.tn**
 
