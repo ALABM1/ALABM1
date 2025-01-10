@@ -7,7 +7,7 @@
 - 🔭 I’m currently **Developing a web application using the MERN stack**
 
 - 🌟 **Passionate about** Full-stack development using Spring Boot, Angular, MERN Stack, and Symfony
-- - 🌐 **Check out my Portfolio:** [Portfolio Link](https://alaeddinebenmahmoud-alabm1s-projects.vercel.app/)  
+- 🌐 **Check out my Portfolio:** [Portfolio Link](https://alaeddinebenmahmoud-alabm1s-projects.vercel.app/)  
 
 - 📫 How to reach me **alaeddine.benmahmoud@esprit.tn**
 
