@@ -7,7 +7,7 @@
 - 🔭 I’ve completed **Developing a web application using the MERN stack**: <a href="https://ala-social-app.onrender.com/" target="_blank" rel="noopener noreferrer">View Project</a>  
 - 🌟 **Passionate about** Full-stack development using Spring Boot, Angular, MERN Stack and Symfony
 - 🌐 **Check out my Portfolio:** [Portfolio Link](https://alaeddinebenmahmoud-alabm1s-projects.vercel.app/)  
-- 📫 How to reach me **alaeddine.benmahmoud@esprit.tn**
+- 📫 How to reach me **aladinbenmahmoud@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
