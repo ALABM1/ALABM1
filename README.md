@@ -1,58 +1,105 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b12,50:5b21b6,100:db2777&height=200&section=header&text=Alaeddine%20Ben%20Mahmoud&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Agentic%20AI%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=58" alt="Alaeddine Ben Mahmoud, Agentic AI Engineer and Full Stack Developer" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b12,50:5b21b6,100:db2777&height=220&section=header&text=Alaeddine%20Ben%20Mahmoud&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Agentic%20AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=60&descSize=20&animation=fadeIn" alt="Alaeddine Ben Mahmoud, Agentic AI Engineer and Full Stack Developer"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Building+AI+agents+that+get+real+work+done;Agentic+AI+%7C+MCP+%7C+RAG+%7C+Full+Stack;From+tool+calls+to+production+apps" alt="Animated introduction"/>
+</a>
+
+<p>
+  <a href="https://alaeddine-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/alaeddine-ben-mahmoud">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:aladinbenmahmoud@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=A78BFA&center=true&vCenter=true&width=520&lines=Agentic+AI+Engineer;AI+agents+%7C+MCP+%7C+RAG;Full+stack%2C+from+API+to+UI" alt="Agentic AI Engineer" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=alabm1&label=Profile%20views&color=7c3aed&style=flat-square" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/ALABM1?label=Followers&style=flat-square&color=5b21b6" alt="GitHub followers"/>
 </p>
 
-<p align="center">
-  <a href="https://alaeddine-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/alaeddine-ben-mahmoud"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:aladinbenmahmoud@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+</div>
 
-```python
-class Alaeddine(Agent):
-    role  = "Agentic AI Engineer"
-    focus = ["AI agents", "MCP", "RAG", "Context engineering"]
-    also  = "Full stack development"
+---
+
+## About
+
+I am an **Agentic AI Engineer** and **Full Stack Developer**. I build AI agents that call tools through the **Model Context Protocol**, ground their answers with **RAG** and carry out long, multi-step tasks.
+
+I also design and ship full-stack applications, from REST APIs and databases to the user interface. Good agents need good software around them, and I enjoy building both.
+
+<div align="center">
+
+| 🤖 Agentic AI | 🌐 Full Stack | ⚙️ Delivery |
+| :---: | :---: | :---: |
+| AI agents, MCP, RAG<br/>LLMs, context engineering | Spring Boot, Node.js, .NET<br/>React, Angular, REST APIs | Docker, Kubernetes, CI/CD<br/>Jenkins, Git, Linux |
+
+</div>
+
+## Current focus
+
+```text
+01  Building AI agents that act through tools (MCP)
+02  Grounding agents with RAG and context engineering
+03  Making agents reliable on long, multi-step tasks
+04  Shipping full-stack applications end to end
 ```
 
-<h3 align="center">🤖 Agentic AI</h3>
+## Toolbox
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20Agents-5B21B6?style=for-the-badge" alt="AI Agents" />
-  <img src="https://img.shields.io/badge/MCP-111827?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol" />
-  <img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge" alt="RAG" />
-  <img src="https://img.shields.io/badge/LLMs-A855F7?style=for-the-badge" alt="LLMs" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn&theme=dark" alt="Python, PyTorch, scikit-learn" />
-</p>
+<div align="center">
 
-<h3 align="center">🌐 Full Stack</h3>
+<img src="https://skillicons.dev/icons?i=python,java,cs,ts,js,php&theme=dark" alt="Programming languages"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,symfony,dotnet,react,angular,html,css&theme=dark" alt="Backend and frontend frameworks"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,mongodb,mysql,postgres,docker,kubernetes,jenkins,git,linux,postman&theme=dark" alt="AI, databases and DevOps"/>
 
-<p align="center">
-  <sub><b>BACKEND</b></sub><br />
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,symfony,php,dotnet,cs&theme=dark" alt="Java, Spring Boot, Node.js, Express, Symfony, PHP, .NET, C#" />
-</p>
-<p align="center">
-  <sub><b>FRONTEND</b></sub><br />
-  <img src="https://skillicons.dev/icons?i=react,angular,ts,js,html,css&theme=dark" alt="React, Angular, TypeScript, JavaScript, HTML, CSS" />
-</p>
-<p align="center">
-  <sub><b>DATABASES</b></sub><br />
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" alt="MongoDB, MySQL, PostgreSQL" />
-</p>
+</div>
 
-<h3 align="center">⚙️ DevOps & Tools</h3>
+<details>
+<summary><b>More technologies</b></summary>
+<br/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git,linux,postman&theme=dark" alt="Docker, Kubernetes, Jenkins, Git, Linux, Postman" />
-</p>
+**AI & Agents:** LLMs, AI agents, Model Context Protocol (MCP), RAG, context engineering, prompt engineering, Language Server Protocol, Hugging Face Transformers, PyTorch, scikit-learn, pandas, NumPy<br/>
+**Backend & APIs:** Java, Spring Boot, Quarkus, Node.js, Express, Symfony, PHP, C#, .NET, REST APIs, Keycloak, Socket.IO<br/>
+**Frontend:** React, Angular, TypeScript, JavaScript, HTML, CSS, Pug<br/>
+**DevOps & Tools:** Docker, Kubernetes, Jenkins, CI/CD, Git, Linux, Postman
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:db2777,50:5b21b6,100:0b0b12&height=110&section=footer" alt="" />
-</p>
+</details>
+
+## GitHub in motion
+
+<div align="center">
+  <a href="https://github.com/ALABM1">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=ALABM1&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0b0b12&title_color=a78bfa&icon_color=db2777&text_color=e2e8f0&rank_icon=github" alt="GitHub statistics"/>
+  </a>
+  <a href="https://github.com/ALABM1">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALABM1&layout=compact&hide_border=true&theme=tokyonight&bg_color=0b0b12&title_color=a78bfa&text_color=e2e8f0&langs_count=8" alt="Top programming languages"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ALABM1&bg_color=0b0b12&color=e2e8f0&line=8b5cf6&point=db2777&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
+</div>
+
+---
+
+<div align="center">
+
+### Let's build something that works.
+
+<a href="https://alaeddine-portfolio.netlify.app/">Portfolio</a> |
+<a href="mailto:aladinbenmahmoud@gmail.com">Email</a> |
+<a href="https://www.linkedin.com/in/alaeddine-ben-mahmoud">LinkedIn</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:db2777,50:5b21b6,100:0b0b12&height=120&section=footer&animation=fadeIn" alt="Decorative footer"/>
+
+</div>
