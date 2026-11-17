@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b12,50:5b21b6,100:db2777&height=220&section=header&text=Alaeddine%20Ben%20Mahmoud&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Agentic%20AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=60&descSize=20&animation=fadeIn" alt="Alaeddine Ben Mahmoud, Agentic AI Engineer and Full Stack Developer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,55:312e81,100:6366f1&height=220&section=header&text=Alaeddine%20Ben%20Mahmoud&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Agentic%20AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=60&descSize=20&animation=fadeIn" alt="Alaeddine Ben Mahmoud, Agentic AI Engineer and Full Stack Developer"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Building+AI+agents+that+get+real+work+done;Agentic+AI+%7C+MCP+%7C+RAG+%7C+Full+Stack;From+tool+calls+to+production+apps" alt="Animated introduction"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=818CF8&center=true&vCenter=true&width=720&lines=Building+AI+agents+that+get+real+work+done;Agentic+AI+%7C+MCP+%7C+RAG+%7C+Full+Stack;From+tool+calls+to+production+apps" alt="Animated introduction"/>
 </a>
 
 <p>
   <a href="https://alaeddine-portfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/alaeddine-ben-mahmoud">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -19,8 +19,8 @@
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=alabm1&label=Profile%20views&color=7c3aed&style=flat-square" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/ALABM1?label=Followers&style=flat-square&color=5b21b6" alt="GitHub followers"/>
+  <img src="https://komarev.com/ghpvc/?username=alabm1&label=Profile%20views&color=4f46e5&style=flat-square" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/ALABM1?label=Followers&style=flat-square&color=312e81" alt="GitHub followers"/>
 </p>
 
 </div>
@@ -77,15 +77,15 @@ I also design and ship full-stack applications, from REST APIs and databases to 
 
 <div align="center">
   <a href="https://github.com/ALABM1">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=ALABM1&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0b0b12&title_color=a78bfa&icon_color=db2777&text_color=e2e8f0&rank_icon=github" alt="GitHub statistics"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=ALABM1&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0f172a&title_color=818cf8&icon_color=818cf8&text_color=e2e8f0&rank_icon=github" alt="GitHub statistics"/>
   </a>
   <a href="https://github.com/ALABM1">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALABM1&layout=compact&hide_border=true&theme=tokyonight&bg_color=0b0b12&title_color=a78bfa&text_color=e2e8f0&langs_count=8" alt="Top programming languages"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALABM1&layout=compact&hide_border=true&theme=tokyonight&bg_color=0f172a&title_color=818cf8&text_color=e2e8f0&langs_count=8" alt="Top programming languages"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ALABM1&bg_color=0b0b12&color=e2e8f0&line=8b5cf6&point=db2777&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ALABM1&bg_color=0f172a&color=e2e8f0&line=6366f1&point=818cf8&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
 </div>
 
 ---
@@ -100,6 +100,6 @@ I also design and ship full-stack applications, from REST APIs and databases to 
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:db2777,50:5b21b6,100:0b0b12&height=120&section=footer&animation=fadeIn" alt="Decorative footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,45:312e81,100:0f172a&height=120&section=footer&animation=fadeIn" alt="Decorative footer"/>
 
 </div>
